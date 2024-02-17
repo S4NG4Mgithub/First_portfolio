@@ -1,2 +1,2 @@
 # First_portfolio
-sample only
+this is my first portfolio website by using HTML & CSS. 
